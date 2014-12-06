@@ -1,0 +1,19 @@
+[Batch]
+name = name of the batch
+sandbox = True or False
+title = Title for the HIT 
+description = Description for the HIT  
+keywords = hit keyword 
+question = suburl from your server which contains the task 
+amount = amount to pay the worker 
+duration = duration of a HIT in seconds
+lifetime = duration of the batch in seconds 
+auto_approve = time to autoapprove task in seconds once it has been submitted 
+max_assigs = number of assignments for each HIT 
+images_per_task = number of images per task
+height = height of the iframe that will contain the HIT in pixels 
+number_of_images = number_of_images for the BATCH 
+min_approved_amount = minimum number of approved HITs to be able to work on the task
+min_approved_percent = minimum percent of approved HITs to be able to work on the task
+country_code = Country code of the workers 
+
